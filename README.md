@@ -311,7 +311,7 @@ Confirmation Number : CONF-M-2001
 ##  Demo
 
 **Pega Application Demo:**\
-*Add the final Pega demo link here.*
+*(https://xmyzg7ek.pegacea.net/prweb/app/movie-ticket-booking-Vaibhav-tiwari/)*
 
 The demo should demonstrate the complete booking lifecycle, including
 request submission, availability validation, cost calculation, booking
